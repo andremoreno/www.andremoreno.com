@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<div class="post">
+  <h1 class="page-title">{% if page.stitle %}{{page.stitle}}{% else %}{{page.title}}{% endif %}</h1>
+  {{ content }}
+</div>
+
+
+{% if page.comments == true %}
+<div class="pembatas">
+<h3>Comments</h3>
+<div class="fb-comments" data-href="{{ site.url }}{{ page.url }}" data-width="100%" data-numposts="5" data-colorscheme="light"></div>
+</div>
+{% endif %}

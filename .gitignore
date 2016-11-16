@@ -1,2 +1,7 @@
 _site
 public
+.jekyll-assets-cache
+.asset-cache
+.sass-cache
+tmp
+.env

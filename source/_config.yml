@@ -1,3 +1,79 @@
-name: Your New Jekyll Site
-markdown: redcarpet
-pygments: true
+timezone: Asia/Jakarta
+future: true
+markdown: kramdown
+highlighter: pygments
+paginate: 8
+
+destination: public
+
+exclude: ['Gemfile*', 'README*','LICENSE*', 'vendor','.travis.yml']
+keep_files: ['.gitkeep']
+
+permalink:        pretty
+
+archive_path: archives/
+
+title:		"Andre Moreno"
+tagline:	"I don't trust words. I trust pictures!"
+description:	"An ordinary boy who try to save the world and failed."
+url:		"https://www.andremoreno.com"
+baseurl:	"/"
+staticurl:	"https://cdn.andremoreno.com"
+bigimageurl:	"https://cdn.andremoreno.com"
+ajaxurl:	"https://ajax.andremoreno.com"
+normalurl:	"http://www.andremoreno.com"
+
+pages_list:
+  About: "/about/"
+  Contact: "/contact/"
+  Projects: "/projects/"
+  Archives: "/archives/"
+#  RockBooth: "https://bit.ly/rockbooth"
+#  Temphotoworks: "https://ndre.in/2frk1iX"
+
+author:
+  twitter:        "https://twitter.com/intent/follow?screen_name=SnaptwitID"
+  facebook:       "https://www.facebook.com/andreas.rikardo"
+  github:         "https://github.com/andremoreno"
+  instagram:      "https://instagram.com/andremoreno?ref=badge"
+  vscogrid:       "https://vsco.co/moreno?utm_source=user_grid&amp;utm_medium=user_website&amp;utm_campaign=link_to_grid"
+
+github:
+  repo: "https://github.com/andremoreno/www.andremoreno.com"
+
+# Open Graph
+fb_profile_id: andreas.rikardo
+fb_admins: 1059136786
+fb_app_id: 116794761711713
+twitter_handle: "@SnaptwitID"
+
+assets:
+  compress:
+    css: true
+    js: true
+
+  #cache_type: memory
+  prefix: "/assets"
+  digest: true
+  sources:
+    - _assets
+
+
+gems:
+  - jekyll-archives
+  - jekyll-paginate
+  - jekyll-assets
+  - jekyll-gist
+
+
+jekyll-archives:
+  enabled: [year,month]
+  layouts:
+    year: year
+    month: month
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'
+    day: '/:year/:month/:day/'
+    tag: '/tag/:name/'
+    category: '/category/:name/'

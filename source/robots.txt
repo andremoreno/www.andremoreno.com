@@ -1,0 +1,4 @@
+user-agent: *
+Disallow:
+
+sitemap: https://www.andremoreno.com/sitemap.xml

@@ -1,0 +1,49 @@
+<head>
+<meta charset="utf-8">
+
+<link rel="dns-prefetch" href="{{site.staticurl}}">
+<link rel="dns-prefetch" href="{{site.ajaxurl}}">
+<title>{% if page.title == "Home" %}{{ site.title }} &middot; {{ site.tagline }}{% else %}{{ page.title }} &middot; {{ site.title }}{% endif %}</title>
+<meta name="description" content="{% if page.excerpt %}{{page.excerpt | strip_html}}{% else %}{{site.description}}{% endif %}" />
+
+<!-- CSS -->
+<style>{% asset css/style %}</style>
+{% if page.audioplayer == true %}{% stylesheet css/audioplayer %}{% endif %}
+
+<!-- Icons -->
+<link href="{{site.staticurl}}/static/logo_60.png" rel="apple-touch-icon" />
+<link href="{{site.staticurl}}/static/logo_76.png" rel="apple-touch-icon" sizes="76x76" />
+<link href="{{site.staticurl}}/static/logo_120.png" rel="apple-touch-icon" sizes="120x120" />
+<link href="{{site.staticurl}}/static/logo_152.png" rel="apple-touch-icon" sizes="152x152" />
+<link rel="shortcut icon" href="{{site.staticurl}}/static/favicon.ico" />
+{% if site.author.twitter %}
+<!-- twitter -->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="{% if page.imagefeature %}{{site.staticurl}}{{page.imagefeature}}{% else %}{{site.staticurl}}/static/logoam.png{% endif %}">
+<meta name="twitter:title" content="{% if page.title==" Home " %}Andre Moreno{% else %}{{page.title}}{% endif %}">
+<meta name="twitter:description" content="{% if page.excerpt %}{{page.excerpt | strip_html}}{% else %}{{site.description}}{% endif %}">
+<meta name="twitter:creator" content="@SnaptwitID">
+{% endif %}
+{% if site.fb_app_id %}<!-- fb opengraph -->
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="{% if page.title==" Home " %}website{% else %}article{% endif %}"/>
+<meta property="og:title" content="{% if page.title==" Home " %}Andre Moreno{% else %}{{page.title}}{% endif %}"/>
+<meta property="og:description" content="{% if page.excerpt %}{{page.excerpt | strip_html}}{% else %}{{site.description}}{% endif %}" />
+<meta property="og:url" content="{{site.url}}{{page.url}}" />
+<meta property="og:site_name" content="{{site.title}}" />{% if page.imagefeature %}
+<meta property="og:image" content="{{site.staticurl}}{{page.imagefeature}}" />{% else %}
+<meta property="og:image" content="{{site.staticurl}}/static/logoam.png" />{% endif %}
+<meta property="fb:app_id" content="{{site.fb_app_id}}" />
+<meta property="fb:admins" content="{{site.fb_admins}}" />
+{% endif %}
+<meta name="apple-mobile-web-app-title" content="{{site.title}}" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<link rel="canonical" href="{{site.url}}{{page.url}}" />
+
+<!-- RSS -->
+<link rel="alternate" type="application/rss+xml" title="{{site.title}}'s Blog" href="{{site.url}}/feed.xml"/>
+{% if page.previous.url %}<link rel="prev" title="{{ page.previous.title }}" href="{{ site.url }}{{ page.previous.url }}" />{% endif %}
+{% if page.next.url %}<link rel="next" title="{{ page.next.title }}" href="{{ site.url }}{{ page.next.url }}" />{% endif %}
+</head>
