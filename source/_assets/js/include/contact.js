@@ -33,7 +33,7 @@ $(document).ready(function() {
             };
            
             //Ajax post data to server
-            $.post('/process.php', post_data, function(response){  
+            $.post('https://ajax.andremoreno.com/sendmail.php', post_data, function(response){  
                 if(response.type == 'error'){ //load json data from server and output message    
                     output = '<div class="error">'+response.text+'</div>';
 					//$("#contact_form #contact_results").slideUp(); //slide to the error messages..
