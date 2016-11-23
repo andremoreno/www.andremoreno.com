@@ -2,14 +2,14 @@
 layout: post
 title: "Cara Menambahkan Lagu Pada Halaman Web"
 date: 2014-09-12
-excerpt: <img src="https://cdn.andremoreno.com/static/wait.gif" class="resize js_show loading_image" data-href="/images/20140912/screenshot.jpg" alt="" /> Terkadang kita ingin menambahkan / memasukkan lagu pada halaman web. Biar kesannya lebih menarik, atau hanya sekedar menampilkan lagu favorit saat ini, ataupun alasan lain yang kadang-kadang suka tidak jelas. Apalagi saat ini ada banyak situs di internet yang memungkinkan untuk mengunduh jenis lagu secara <em>gratis</em>.
+excerpt: <img src="https://cdn.andremoreno.com/static/wait.svg" class="resize js_show loading_image" data-href="/images/20140912/screenshot.jpg" alt="" /> Terkadang kita ingin menambahkan / memasukkan lagu pada halaman web. Biar kesannya lebih menarik, atau hanya sekedar menampilkan lagu favorit saat ini, ataupun alasan lain yang kadang-kadang suka tidak jelas. Apalagi saat ini ada banyak situs di internet yang memungkinkan untuk mengunduh jenis lagu secara <em>gratis</em>.
 imagefeature: /images/20140912/screenshot.jpg
 share: true
 comments: true
 audioplayer: true
 ---
 
-<a href="{{site.staticurl}}/images/20140912/screenshot.jpg" class="swipebox" title=""><img src="{{site.staticurl}}/static/wait.gif" class="resize js_show loading_image" data-href="/images/20140912/screenshot.jpg" alt="" /></a>
+<a href="{{site.staticurl}}/images/20140912/screenshot.jpg" class="swipebox" title=""><img src="{{site.staticurl}}/static/wait.svg" class="resize js_show loading_image" data-href="/images/20140912/screenshot.jpg" alt="" /></a>
 <noscript><img src="{{site.staticurl}}/s720/images/20140912/screenshot.jpg" /></noscript>
 
 Terkadang kita ingin menambahkan / memasukkan lagu pada halaman web. Biar kesannya lebih menarik, atau hanya sekedar menampilkan lagu favorit saat ini, ataupun alasan lain yang kadang-kadang suka tidak jelas. Apalagi saat ini ada banyak situs di internet yang memungkinkan untuk mengunduh jenis lagu secara *gratis*. Kira-kira seperti ini yang saya maksudkan:
@@ -68,11 +68,11 @@ Mudah bukan?
 
 Setelah itu saya mencoba melihat beberapa tampilan dengan "Responsive Design View" di Firefox (ctrl+shift+m)
 
-<a href="{{site.staticurl}}/images/20140912/screenshot2.jpg" class="swipebox" title=""><img src="{{site.staticurl}}/static/wait.gif" class="resize js_show loading_image" data-href="/images/20140912/screenshot2.jpg" alt="" /></a>
+<a href="{{site.staticurl}}/images/20140912/screenshot2.jpg" class="swipebox" title=""><img src="{{site.staticurl}}/static/wait.svg" class="resize js_show loading_image" data-href="/images/20140912/screenshot2.jpg" alt="" /></a>
 <noscript><img src="{{site.staticurl}}/s720/images/20140912/screenshot2.jpg" /></noscript>
 screenshot 320x480px
 
-<a href="{{site.staticurl}}/images/20140912/screenshot3.jpg" class="swipebox" title=""><img src="{{site.staticurl}}/static/wait.gif" class="resize js_show loading_image" data-href="/images/20140912/screenshot3.jpg" alt="" /></a>
+<a href="{{site.staticurl}}/images/20140912/screenshot3.jpg" class="swipebox" title=""><img src="{{site.staticurl}}/static/wait.svg" class="resize js_show loading_image" data-href="/images/20140912/screenshot3.jpg" alt="" /></a>
 <noscript><img src="{{site.staticurl}}/s720/images/20140912/screenshot3.jpg" /></noscript>
 screenshot 480x320px
 
