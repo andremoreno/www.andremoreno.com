@@ -80,7 +80,7 @@ Saat melihat ini, saya merasa ada yang kurang sreg, sepertinya membuat halaman i
 
 Lalu dengan semangat saya kembali <a href="https://www.google.com/search?q=responsive%20audio%20player" target="_blank">mencari dengan google</a>, dan menemukan artikel yang menarik <a href="http://osvaldas.info/audio-player-responsive-and-touch-friendly">http://osvaldas.info/audio-player-responsive-and-touch-friendly</a>. Menurut artikel tersebut saya tinggal memasukan file <a href="http://osvaldas.info/examples/audio-player-responsive-and-touch-friendly/audioplayer.js" target="_blank">audioplayer.js</a> (8KB) atau <a href="http://osvaldas.info/examples/audio-player-responsive-and-touch-friendly/audioplayer.min.js">audioplayer.min.js</a> (minified; 4KB).
 
-Pada halaman tersebut juga ada demo, untuk memudahkan, saya mengambil kode css dan javascript dari source code demo tersebut.
+Pada halaman tersebut juga ada <a href="https://osvaldas.info/examples/audio-player-responsive-and-touch-friendly/">demo</a>, untuk memudahkan, saya mengambil kode css dan javascript dari source code demo tersebut.
 Karena ini adalah plugin untuk jQuery, maka jangan lupa untuk memasukkan kode jQuery dan file audioplayer.min.js ke dalam kode html.
 
 {% highlight html %}
