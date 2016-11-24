@@ -12,17 +12,18 @@ comments: true
 
 Mendapatkan ekstensi sebuah file / berkas bisa sangat penting dalam memvalidasi berkas. Mungkin kita perlu untuk mendapatkan ekstensi dari file-file yang diunggah atau untuk memeriksa ekstensi dari berkas-berkas yang ada di website kita dengan menggunakan PHP.
 
-Kita menggunakan fungsi php <a href="http://php.net/manual/en/function.pathinfo.php">pathInfo()</a> pada sebuah berkas (contoh: "/var/www/andremoreno/nama.berkas.jpg"), yang akan memberikan informasi lengkap akan berkas tersebut. Sebagai contoh, kita akan menjalankan kode berikut:
+Kita menggunakan fungsi php <a href="http://php.net/manual/en/function.pathinfo.php">pathInfo()</a> pada sebuah file. (contoh: "/var/www/andremoreno/nama.berkas.jpg"), yang akan memberikan informasi lengkap akan file tersebut. Sebagai contoh, kita akan menjalankan kode berikut:
 
 {% gist 5b2ae768c802cae636cf3d77128229db 1.php %}
 
+Yang bila dijalankan akan menghasilkan:
+
 {% gist 5b2ae768c802cae636cf3d77128229db 2.php %}
 
-<a href="http://codepad.org/NeCvCPkB">http://codepad.org/NeCvCPkB</a>
+Seperti yang kita bisa lihat, bagian "extension" berisi ekstensi dari file tersebut.
+Bisa dilihat di tautan berikut ini: <a href="http://codepad.org/NeCvCPkB">http://codepad.org/NeCvCPkB</a>
 
-
-Seperti yang anda lihat, bagian 'extension' berisi ekstensi berkas. Sekarang kita bisa menyingkat fungsi diatas tadi ini dengan menambahkan **PATHINFO_EXTENSION** dengan tujuan hanya mengambil ekstensi berkas tanpa informasi tambahan.
-
+Sekarang kita bisa menyingkat fungsi diatas tadi ini dengan menambahkan **PATHINFO_EXTENSION** dengan tujuan hanya mengambil ekstensi berkas tanpa informasi tambahan.
 
 {% gist 5b2ae768c802cae636cf3d77128229db 3.php %}
 
