@@ -2,10 +2,10 @@
 layout: page
 title: About
 stitle: About
-imagefeature: /images/about/andremoreno.jpg
+imagefeature: /images/misc/andremoreno.jpg
 ---
 
-<a href="{{site.staticurl}}/images/about/andremoreno.jpg" class="swipebox" title=""><img src="{{site.staticurl}}/static/wait.svg" class="resize js_show loading_image" data-href="/images/about/andremoreno.jpg" /></a>
+<a href="{{site.staticurl}}/images/misc/andremoreno.jpg" class="swipebox" title=""><img src="{{site.staticurl}}/static/wait.svg" class="resize js_show loading_image" data-href="/images/misc/andremoreno.jpg" /></a>
 
 <p class="message">
 Hello, I'm Andre. An ordinary boy who try to save the world and failed.
