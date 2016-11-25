@@ -1,13 +1,13 @@
 @charset "utf-8";
 
-$font-family: "Raleway",sans-serif;
-$font-family2: "Raleway",sans-serif;
-$font-family3: "Raleway",sans-serif;
+$font-family: "Source Sans Pro",sans-serif;
+$font-family2: "Source Sans Pro",sans-serif;
+$font-family3: "Source Sans Pro",sans-serif;
 $cdnurl: 'https://cdn.andremoreno.com';
 /*#{$cdnurl}*/
 
 
-@import "_sass/fonts";
+@import "_sass/fonts2";
 @import "_sass/poole";
 @import "_sass/hyde";
 @import "_sass/syntax";
