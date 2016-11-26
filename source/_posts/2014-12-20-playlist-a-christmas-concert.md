@@ -2,10 +2,8 @@
 layout: post
 title: "Playlist: A Christmas Concert"
 date: 2014-12-20
-excerpt: <img src="//cdn.andremoreno.com/static/wait.gif" class="resize js_show loading_image" data-href="/images/20141220/20141220_0069.jpg" alt="" />
+excerpt: Pada tanggal 20 Desember 2014, saya mempunyai kesempatan untuk mendokumentasikan Perayaan Natal Remaja, Pelajar Sidi, dan Naposobulung HKBP Rawamangun.
 imagefeature: /images/20141220/05.jpg
-share: true
-comments: true
 ---
 
 

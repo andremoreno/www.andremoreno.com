@@ -2,11 +2,8 @@
 layout: post
 title: "KKR HKBP Rawamangun"
 date: 2014-03-01
-description: KKR HKBP Rawamangun
-excerpt: <img src="https://cdn.andremoreno.com/static/wait.gif" class="resize js_show loading_image" data-href="/images/20140301/02.jpg" alt="" />
+excerpt: ''
 imagefeature: /images/20140301/02.jpg
-share: true
-comments: true
 ---
 
 KKR HKBP Rawamangun, 1 Maret 2014

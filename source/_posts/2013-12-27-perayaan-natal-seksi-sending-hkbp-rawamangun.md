@@ -2,14 +2,11 @@
 layout: post
 title: "Perayaan Natal Seksi Sending HKBP Rawamangun"
 date: 2013-12-27
-description: Perayaan Natal Seksi Sending HKBP Rawamangun
-excerpt: <img src="//cdn.andremoreno.com/static/wait.gif" class="resize js_show loading_image" data-href="/images/20131227/20131227_0319.jpg" alt="" /> Masih dalam suasana Natal, kali ini Seksi Sending HKBP Rawamangun mengadakan Ibadah Perayaan Natal Seksi Sending bersama warga outreach CKPR (Cakung, Kampung Melayu, Pulo Gebang, dan Rawadas). Ibadah Perayaan Natal ini berlangsung pada tanggal 27 Desember 2013 di Gereja HKBP Rawamangun Jakarta.
+excerpt: Masih dalam suasana Natal, kali ini Seksi Sending HKBP Rawamangun mengadakan Ibadah Perayaan Natal Seksi Sending bersama warga outreach CKPR (Cakung, Kampung Melayu, Pulo Gebang, dan Rawadas).
 imagefeature: /images/20131227/20131227_0319.jpg
-share: true
-comments: true
 ---
 
-Masih dalam suasana Natal, kali ini Seksi Sending HKBP Rawamangun mengadakan Ibadah Perayaan Natal Seksi Sending bersama warga outreach CKPR (Cakung, Kampung Melayu, Pulo Gebang, dan Rawadas). Ibadah Perayaan Natal ini berlangsung pada tanggal 27 Desember 2013 di Gereja HKBP Rawamangun Jakarta. Perayaan Natal ini mempunyai tema: Datanglah Ya Raja Damai (<a href="http://alkitab.hkbp-rawamangun.org/yesaya+9.5" target="_blank">Yesaya 9:5</a>)
+Masih dalam suasana Natal, kali ini Seksi Sending HKBP Rawamangun mengadakan Ibadah Perayaan Natal Seksi Sending bersama warga outreach CKPR (Cakung, Kampung Melayu, Pulo Gebang, dan Rawadas). Ibadah Perayaan Natal ini berlangsung pada tanggal 27 Desember 2013 di Gereja HKBP Rawamangun Jakarta. Perayaan Natal ini mempunyai tema: Datanglah Ya Raja Damai (<a href="https://alkitab.andremoreno.com/yesaya+9.5" target="_blank">Yesaya 9:5</a>)
 
 Perayaan Natal kali ini, walaupun terlihat sederhana, tapi mempunyai kesan yang mendalam buat saya pribadi.
 

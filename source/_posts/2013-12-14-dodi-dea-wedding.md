@@ -2,11 +2,8 @@
 layout: post
 title: "Dodi Dea Wedding"
 date: 2013-12-14
-description: Dodi & Dea Wedding Day.
-excerpt: <img src="https://cdn.andremoreno.com/static/wait.gif" class="resize js_show loading_image" data-href="/images/20131214/20131214_0152.jpg" alt="" />.
+excerpt: Dodi & Dea Wedding Day.
 imagefeature: /images/20131214/20131214_0152.jpg
-share: true
-comments: true
 ---
 
 <a href="//cdn.andremoreno.com/images/20131214/20131214_0015.jpg" class="swipebox" title=""><img src="//cdn.andremoreno.com/static/wait.gif" class="resize js_show loading_image" data-href="/images/20131214/20131214_0015.jpg" alt="" /></a>

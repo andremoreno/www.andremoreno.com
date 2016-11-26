@@ -4,7 +4,6 @@ title: "Pengalaman Menggunakan Telkom Speedy"
 date: 2014-09-27
 excerpt: Beberapa hari belakangan ini saya merasa ada yang kurang sreg dengan koneksi internet dari Telkom Speedy yang biasa saya pakai. Ping besar, sering timeout, dan koneksi down. Biasanya kalau down, tidak lama kemudian koneksi lancar kembali. Tapi kali ini setelah down, up lagi, tak lama kemudian down lagi.
 imagefeature: /images/20140927/telkomspeedy.jpg
-share: true
 comments: false
 embedtweet: true
 ---

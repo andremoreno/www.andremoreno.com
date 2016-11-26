@@ -3,6 +3,7 @@ layout: page
 title: About
 stitle: About
 imagefeature: /images/misc/andremoreno.jpg
+excerpt: Hello, I'm Andre. An ordinary boy who try to save the world and failed.
 ---
 
 <a href="{{site.staticurl}}/images/misc/andremoreno.jpg" class="swipebox" title=""><img src="{{site.staticurl}}/static/wait.svg" class="resize js_show loading_image" data-href="/images/misc/andremoreno.jpg" /></a>

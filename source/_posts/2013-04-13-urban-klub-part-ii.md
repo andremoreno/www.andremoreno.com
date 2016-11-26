@@ -2,11 +2,8 @@
 layout: post
 title: "Urban Klub Part II"
 date: 2013-04-14
-description: Urban Klub Part II
-excerpt: <img src="https://cdn.andremoreno.com/static/wait.gif" class="resize js_show loading_image" data-href="/images/20130414/02.jpg" alt="" />
+excerpt: Kuningan City dan Popular Magazine mengadakan "Urban Klub Part 2" pada tanggal 12 April 2014 sampai dengan 14 April 2014.
 imagefeature: /images/20130414/02.jpg
-share: true
-comments: true
 ---
 
 Kuningan City dan Popular Magazine mengadakan "Urban Klub Part 2" pada tanggal 12 April 2014 sampai dengan 14 April 2014.

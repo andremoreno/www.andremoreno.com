@@ -2,10 +2,8 @@
 layout: post
 title: "Merry Christmas 2014"
 date: 2014-12-25
-excerpt: <img src="{{site.staticurl}}/static/wait.gif" class="resize js_show loading_image" data-href="/images/20141225/2.jpg" alt="" />
+excerpt: ''
 imagefeature: /images/20141225/2.jpg
-share: true
-comments: true
 ---
 
 

@@ -2,11 +2,8 @@
 layout: post
 title: "Prewedding Anthon & Bulan"
 date: 2016-07-04
-description: Prewedding Anthon & Bulan
-excerpt: Prewedding Anthon & Bulan
+excerpt: ''
 imagefeature: /images/20160704/20160704_0110.jpg
-share: true
-comments: true
 ---
 
 <a href="{{site.bigimageurl}}/images/20160704/20160704_0031.jpg" class="swipebox" title=""><img src="{{site.staticurl}}/static/wait.svg" class="resize js_show loading_image" data-href="/images/20160704/20160704_0031.jpg" alt="" /></a>

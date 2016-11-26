@@ -2,10 +2,8 @@
 layout: post
 title: "HUT Ke-12 Intan Utama Logistic"
 date: 2015-06-02
-excerpt: <img src="https://cdn.andremoreno.com/static/wait.gif" class="resize js_show loading_image" data-href="/images/20150602/1.jpg" alt="" />
+excerpt: ''
 imagefeature: /images/20150602/1.jpg
-share: true
-comments: true
 ---
 
 

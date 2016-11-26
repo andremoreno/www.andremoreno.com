@@ -2,11 +2,8 @@
 layout: post
 title: "Partumpolon Jammy dan Tiarida"
 date: 2014-03-15
-description: Partumpolon Jammy dan Tiarida
-excerpt: <img src="//cdn.andremoreno.com/static/wait.gif" class="resize js_show loading_image" data-href="/images/20140315/20140315_0024.jpg" alt="" />
+excerpt: Partumpolon Jammy dan Tiarida tanggal 15 Maret 2014 di HKBP Rawamangun Jakarta.
 imagefeature: /images/20140315/20140315_0024.jpg
-share: true
-comments: true
 ---
 
 Partumpolon Jammy dan Tiarida tanggal 15 Maret 2014 di HKBP Rawamangun Jakarta.

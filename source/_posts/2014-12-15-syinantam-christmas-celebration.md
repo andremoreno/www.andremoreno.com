@@ -2,13 +2,11 @@
 layout: post
 title: "Syinantam Christmas Celebration"
 date: 2014-12-15
-excerpt: <img src="//cdn.andremoreno.com/static/wait.gif" class="resize js_show loading_image" data-href="/images/20141215/201412150127.jpg" alt="" />
+excerpt: TK Syinantam mengadakan perayaan Natal yang mempunyai tema The best Christmas Celebration. Perayaan Natal yang berlangsung pada hari Sabtu 15 Desember 2014 dilangsungkan di Hall Syinantam.
 imagefeature: /images/20141215/201412150127.jpg
-share: true
-comments: true
 ---
 
-<a href="https://tksyinantam.wordpress.com/" target="_blank">TK Syinantam</a> mengadakan perayaan Natal yang mempunyai tema The best Christmas Celebration. Perayaan Natal yang berlangsung pada tanggal 15 Desember 2014 Sabtu 15 Desember 2014 dilangsungkan di Hall Syinantam. Pendeta Grace Bustami Sth yang melayani dalam perayaan ini mengingatkan anak-anak untuk menjadi hadiah yang terbaik buat orangtua, dan buat Tuhan Yesus juga dengan perbuatan dan perkataannya.
+<a href="https://tksyinantam.wordpress.com/" target="_blank">TK Syinantam</a> mengadakan perayaan Natal yang mempunyai tema The best Christmas Celebration. Perayaan Natal yang berlangsung pada hari Sabtu 15 Desember 2014 dilangsungkan di Hall Syinantam. Pendeta Grace Bustami Sth yang melayani dalam perayaan ini mengingatkan anak-anak untuk menjadi hadiah yang terbaik buat orangtua, dan buat Tuhan Yesus juga dengan perbuatan dan perkataannya.
 
 <a href="//cdn.andremoreno.com/images/20141215/201412150003.jpg" class="swipebox" title=""><img src="//cdn.andremoreno.com/static/wait.gif" class="resize js_show loading_image" data-href="/images/20141215/201412150003.jpg" alt="" /></a>
 

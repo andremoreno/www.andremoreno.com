@@ -3,10 +3,8 @@ layout: post
 title: "Ibadah Khusus HUT Republik Indonesia"
 date: 2014-08-17
 description: Ibadah Khusus HKBP Rawamangun Edisi HUT Kemerdekaan RI.
-excerpt: <img src="https://cdn.andremoreno.com/static/wait.gif" class="resize js_show loading_image" data-href="/images/20140817/16.jpg" alt="" />
+excerpt: ''
 imagefeature: /images/20140817/16.jpg
-share: true
-comments: true
 ---
 
 

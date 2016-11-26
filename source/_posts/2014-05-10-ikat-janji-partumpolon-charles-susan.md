@@ -3,10 +3,8 @@ layout: post
 title: Ikat Janji Partumpolon Charles & Susan
 description: Ikat Janji Partumpolon Charles & Susan
 date: 2014-05-10
-excerpt: <img src="//cdn.andremoreno.com/static/wait.gif" class="resize js_show loading_image" data-href="/images/20140510/20140510_0029.jpg" alt="" /> Martumpol (dibaca martuppol) adalah salah satu tahap yang wajib dilakukan dalam prosesi perkawinan adat batak yang beragama Kristen.
+excerpt: Martumpol (dibaca martuppol) adalah salah satu tahap yang wajib dilakukan dalam prosesi perkawinan adat batak yang beragama Kristen.
 imagefeature: /images/20140510/20140510_0029.jpg
-share: true
-comments: true
 ---
 
 Menurut Wikipedia, [Martumpol](http://id.wikipedia.org/wiki/Martumpol) (dibaca martuppol) adalah salah satu tahap yang wajib dilakukan dalam prosesi perkawinan adat batak (beragama Kristen). Dalam acara martumpol ini dilakukan perjanjian untuk melakukan pernikahan antara sepasang calon pengantin di hadapan pendeta gereja.

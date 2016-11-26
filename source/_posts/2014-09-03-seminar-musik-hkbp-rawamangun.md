@@ -3,10 +3,8 @@ layout: post
 title: "Seminar Musik HKBP Rawamangun"
 date: 2014-09-03
 description: Seksi Musik HKBP Rawamangun kali ini mengadakan acara Seminar Musik Gerejawi dengan tema Memimpin Pujian Jemaat Dengan Benar
-excerpt: <img src="https://cdn.andremoreno.com/static/wait.gif" class="resize js_show loading_image" data-href="/images/20140903/18.jpg" alt="" /> Seksi Musik HKBP Rawamangun kali ini mengadakan acara Seminar Musik Gerejawi dengan tema Memimpin Pujian Jemaat Dengan Benar.
+excerpt: Seksi Musik HKBP Rawamangun kali ini mengadakan acara Seminar Musik Gerejawi dengan tema Memimpin Pujian Jemaat Dengan Benar.
 imagefeature: /images/20140903/18.jpg
-share: true
-comments: true
 ---
 
 Seksi Musik HKBP Rawamangun kali ini mengadakan acara Seminar Musik Gerejawi yang berlangsung tanggal 3 September 2014. Seminar ini mempunyai tema Memimpin Pujian Jemaat Dengan Benar dengan pembicara <a href="https://www.google.com/search?q=Hermanus+Arie+van+Dop" target="_blank">Pdt. H.A. van Dop</a>

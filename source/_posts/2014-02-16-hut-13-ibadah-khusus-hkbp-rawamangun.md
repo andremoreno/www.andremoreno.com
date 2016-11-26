@@ -2,10 +2,8 @@
 layout: post
 title: "HUT ke 13 Ibadah Khusus HKBP Rawamangun"
 date: 2014-02-16
-excerpt: <img src="//cdn.andremoreno.com/static/wait.gif" class="resize js_show loading_image" data-href="/images/20140216/20140216_0327.jpg" alt="" />
 imagefeature: /images/20140216/20140216_0327.jpg
-share: true
-comments: true
+excerpt: ''
 ---
 
 

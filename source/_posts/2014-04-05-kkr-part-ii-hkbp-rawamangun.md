@@ -2,11 +2,8 @@
 layout: post
 title: "KKR Part II HKBP Rawamangun"
 date: 2014-04-05
-description: KKR Part II HKBP Rawamangun
-excerpt: <img src="https://cdn.andremoreno.com/static/wait.gif" class="resize js_show loading_image" data-href="/images/20140405/13.jpg" alt="" />
+excerpt: ''
 imagefeature: /images/20140405/13.jpg
-share: true
-comments: true
 ---
 
 KKR Part II HKBP Rawamangun, tanggal 5 April 2014. 

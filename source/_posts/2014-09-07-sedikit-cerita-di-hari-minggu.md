@@ -3,10 +3,9 @@ layout: post
 title: "Sedikit Cerita di Hari Minggu"
 date: 2014-09-07
 description: Sedikit Cerita di Hari Minggu
-excerpt: <img src="//cdn.andremoreno.com/static/wait.gif" class="resize js_show loading_image" data-href="/images/20140907/20140907_0263.jpg" alt="" />
+excerpt: ''
 imagefeature: /images/20140907/20140907_0263.jpg
-share: true
-comments: true
+comments: false
 ---
 
 <a href="//cdn.andremoreno.com/images/20140907/20140907_0242.jpg" class="swipebox" title=""><img src="//cdn.andremoreno.com/static/wait.gif" class="resize js_show loading_image" data-href="/images/20140907/20140907_0242.jpg" alt="" /></a>

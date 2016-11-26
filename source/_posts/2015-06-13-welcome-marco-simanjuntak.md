@@ -2,10 +2,8 @@
 layout: post
 title: "Welcome Marco Simanjuntak"
 date: 2015-06-13
-excerpt: <img src="https://cdn.andremoreno.com/static/wait.gif" class="resize js_show loading_image" data-href="/images/20150612/10.jpg" alt="" />
+excerpt: Puji syukur pada Tuhan, atas segala karunia yang diberikan sehingga lahir dengan sehat dan selamat putra pertama kami.
 imagefeature: /images/20150612/10.jpg
-share: true
-comments: true
 ---
 
 Puji syukur pada Tuhan, atas segala karunia yang diberikan sehingga lahir dengan sehat dan selamat putra pertama kami, pada tanggal 12 Juni 2015, pukul 13.20 WIB, berat 3,534 kg, panjang 50 cm, di RS Carolus, Jakarta. Putra pertama ini kami beri nama <strong>Marco</strong>.

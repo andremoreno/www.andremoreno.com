@@ -2,11 +2,8 @@
 layout: post
 title: "Cara Menambahkan Lagu Pada Halaman Web"
 date: 2014-09-12
-excerpt: <img src="https://cdn.andremoreno.com/static/wait.svg" class="resize js_show loading_image" data-href="/images/20140912/screenshot.jpg" alt="" /> Terkadang kita ingin menambahkan / memasukkan lagu pada halaman web. Biar kesannya lebih menarik, atau hanya sekedar menampilkan lagu favorit saat ini, ataupun alasan lain yang kadang-kadang suka tidak jelas. Apalagi saat ini ada banyak situs di internet yang memungkinkan untuk mengunduh jenis lagu secara <em>gratis</em>.
+excerpt: Terkadang kita ingin menambahkan / memasukkan lagu pada halaman web. Biar kesannya lebih menarik, atau hanya sekedar menampilkan lagu favorit saat ini, ataupun alasan lain yang kadang-kadang suka tidak jelas. Apalagi saat ini ada banyak situs di internet yang memungkinkan untuk mengunduh jenis lagu secara gratis.
 imagefeature: /images/20140912/screenshot.jpg
-share: true
-comments: true
-audioplayer: true
 ---
 
 <a href="{{site.staticurl}}/images/20140912/screenshot.jpg" class="swipebox" title=""><img src="{{site.staticurl}}/static/wait.svg" class="resize js_show loading_image" data-href="/images/20140912/screenshot.jpg" alt="" /></a>

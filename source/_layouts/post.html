@@ -8,7 +8,7 @@ layout: default
 </div>
 
 
-{% if page.share == true %}
+{% if page.share != false %}
 <div class="pembatas">
 <h3>Share This</h3>
 <a href="https://www.facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" class="amsprt amfb2" target="_blank"></a> <a href="https://twitter.com/intent/tweet?text={{ page.title | append: ' ' | uri_escape }}{{ site.url }}{{ page.url }}" class="amsprt amtw2" target="_blank"></a> <a href="whatsapp://send?text={{ page.title | append: ' ' | uri_escape }}{{ site.url }}{{ page.url }}" class="amsprt amwa2" target="_blank"></a> <a class="amsprt amgp2" href="https://plus.google.com/share?url={{ site.url}}{{ page.url }}" target="_blank"></a>
@@ -29,7 +29,7 @@ layout: default
   </ul>
 </div>
 
-{% if page.comments == true %}
+{% if page.comments != false %}
 <div class="pembatas">
 <h3><span class="fb-comments-count" data-href="{{ site.normalurl }}{{ page.url }}"></span> Comments</h3>
 <div data-lazy-widget="fb_4" class="fb-comments" data-href="{{ site.normalurl }}{{ page.url }}" data-width="100%" data-numposts="5" data-colorscheme="light"></div>

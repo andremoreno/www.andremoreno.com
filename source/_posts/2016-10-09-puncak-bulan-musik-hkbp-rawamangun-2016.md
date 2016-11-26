@@ -2,11 +2,8 @@
 layout: post
 title: "Puncak Bulan Musik HKBP Rawamangun 2016"
 date: 2016-10-09
-excerpt: Puncak Bulan Musik HKBP Rawamangun 2016
-text: Pada hari Minggu, 9 Oktober 2016 ini adalah Ibadah Puncak Bulan Musik HKBP Rawamangun. Ini merupakan acara puncak dalam rangka Bulan Musik. Jadi pada setiap Ibadah, pelayan-pelayan nya merupakan anggota dari Seksi Musik HKBP Rawamangun.
+excerpt: Pada hari Minggu, 9 Oktober 2016 ini adalah Ibadah Puncak Bulan Musik HKBP Rawamangun. Ini merupakan acara puncak dalam rangka Bulan Musik. Jadi pada setiap Ibadah, pelayan-pelayan nya merupakan anggota dari Seksi Musik HKBP Rawamangun.
 imagefeature: /images/20161009/01.jpg
-share: true
-comments: true
 ---
 
 Dalam rangka Bulan Musik HKBP Rawamangun, ibadah pada tanggal 9 Oktober 2016 ini agak berbeda, karena merupakan Ibadah Puncak Bulan Musik HKBP Rawamangun tahun 2016. Pada hari Minggu ini, di setiap jam ibadah, pelayan-pelayan nya merupakan anggota dari Seksi Musik HKBP Rawamangun. Berikut ini sedikit dari hasil dokumentasi pada Ibadah Puncak Bulan Musik HKBP Rawamangun tahun 2016.

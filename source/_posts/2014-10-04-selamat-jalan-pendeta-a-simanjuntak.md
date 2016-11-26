@@ -2,10 +2,8 @@
 layout: post
 title: "Selamat Jalan Pendeta A. Simanjuntak"
 date: 2014-10-04
-excerpt: <img src="//cdn.andremoreno.com/static/wait.gif" class="resize js_show loading_image" data-href="/images/20141004/20131227_0277.jpg" alt="" /> Pagi ini saya membuka WhatsApp dan mendapat kabar yang mengejutkan, Pendeta A. Simanjuntak telah berpulang ke Rumah Bapa.
+excerpt: Pagi ini saya membuka WhatsApp dan mendapat kabar yang mengejutkan, Pendeta A. Simanjuntak telah berpulang ke Rumah Bapa.
 imagefeature: /images/20141004/20131227_0277.jpg
-share: true
-comments: true
 ---
 
 Pagi ini saya membuka WhatsApp dan mendapat kabar yang mengejutkan, Pendeta A. Simanjuntak telah berpulang ke Rumah Bapa.

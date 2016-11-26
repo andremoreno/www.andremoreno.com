@@ -2,10 +2,8 @@
 layout: post
 title: "Ucapan Syukur 14 Tahun Ibadah Khusus HKBP Rawamangun"
 date: 2015-03-01
-excerpt: <img src="https://cdn.andremoreno.com/static/wait.gif" class="resize js_show loading_image" data-href="/images/20150301/01.jpg" alt="" />
+excerpt: Ucapan Syukur 14 Tahun Ibadah Khusus HKBP Rawamangun
 imagefeature: /images/20150301/01.jpg
-share: true
-comments: true
 ---
 
 

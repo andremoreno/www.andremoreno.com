@@ -2,10 +2,8 @@
 layout: post
 title: "Ibadah Paskah Subuh HKBP Rawamangun"
 date: 2015-04-05
-excerpt: <img src="https://cdn.andremoreno.com/static/wait.gif" class="resize js_show loading_image" data-href="/images/20150405/06.jpg" alt="" />
+excerpt: ''
 imagefeature: /images/20150405/06.jpg
-share: true
-comments: true
 ---
 
 

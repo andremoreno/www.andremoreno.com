@@ -3,10 +3,9 @@ layout: post
 title: "Hitam ke Putih"
 date: 2014-09-05
 description: Hitam ke Putih
-excerpt: <img src="//cdn.andremoreno.com/static/wait.gif" class="resize js_show loading_image" data-href="/images/20140905/20140905_0074.jpg" alt="" />
+excerpt: ''
 imagefeature: /images/20140905/20140905_0074.jpg
-share: true
-comments: true
+comments: false
 ---
 
 <a href="//cdn.andremoreno.com/images/20140905/20140905_0042.jpg" class="swipebox" title=""><img src="//cdn.andremoreno.com/static/wait.gif" class="resize js_show loading_image" data-href="/images/20140905/20140905_0042.jpg" alt="" /></a>

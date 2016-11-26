@@ -3,10 +3,8 @@ layout: post
 title: "Jubileum 50 Tahun HKBP Rawamangun"
 date: 2014-06-22
 description: Perayaan Jubileum 50 Tahun HKBP Rawamangun ini diadakan pada tanggal 22 Juni 2014 di Gedung Mulia & Raja, Kebon Nanas, Jakarta.
-excerpt: <img src="https://cdn.andremoreno.com/static/wait.gif" class="resize js_show loading_image" data-href="/images/20140622/02.jpg" alt="" />
+excerpt: Perayaan Jubileum 50 Tahun HKBP Rawamangun ini diadakan pada tanggal 22 Juni 2014 di Gedung Mulia & Raja, Kebon Nanas, Jakarta.
 imagefeature: /images/20140622/02.jpg
-share: true
-comments: true
 ---
 
 Pada tanggal 22 Juni 2014 lalu, HKBP Rawamangun mengadakan acara Jubileum 50 Tahun HKBP Rawamangun yang bertempat di Gedung Mulia & Raja, Kebon Nanas, Jakarta.

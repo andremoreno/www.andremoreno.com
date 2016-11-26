@@ -3,10 +3,8 @@ layout: post
 title: "Paskah Subuh HKBP Rawamangun"
 date: 2014-04-20
 description: Ibadah Paskah Subuh HKBP Rawamangun
-excerpt: <img src="//cdn.andremoreno.com/static/wait.gif" class="resize js_show loading_image" data-href="/images/20140420/20140420_0068.jpg" alt="" /> Ibadah Paskah Subuh HKBP Rawamangun.
+excerpt: Ibadah Paskah Subuh HKBP Rawamangun, 20 April 2014 di Gereja HKBP Rawamangun.
 imagefeature: /images/20140420/20140420_0068.jpg
-share: true
-comments: true
 ---
 
 Ibadah Paskah Subuh HKBP Rawamangun, 20 April 2014 di Gereja HKBP Rawamangun.

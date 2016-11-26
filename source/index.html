@@ -13,6 +13,8 @@ title: Home
     </h2>
 
 	<img src="{{site.staticurl}}/static/wait.svg" width="32" height="32" class="resize js_show loading_image" data-href="{{ post.imagefeature }}" alt="" />
+
+	{% if post.excerpt %}<br />{{ post.excerpt }}{% endif %}
   </div>
   {% endfor %}
 </div>

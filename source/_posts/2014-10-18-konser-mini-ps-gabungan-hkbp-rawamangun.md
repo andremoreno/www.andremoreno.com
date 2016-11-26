@@ -2,10 +2,8 @@
 layout: post
 title: "Konser Mini PS Gabungan HKBP Rawamangun"
 date: 2014-10-18
-excerpt: <img src="https://cdn.andremoreno.com/static/wait.gif" class="resize js_show loading_image" data-href="/images/20141018/20141018_0515.jpg" alt="" />
+excerpt: ''
 imagefeature: /images/20141018/20141018_0515.jpg
-share: true
-comments: true
 ---
 
 

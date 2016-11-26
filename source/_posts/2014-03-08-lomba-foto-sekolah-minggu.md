@@ -2,11 +2,8 @@
 layout: post
 title: "Lomba Foto Sekolah Minggu"
 date: 2014-03-08
-description: Lomba Foto Sekolah Minggu HKBP Rawamangun
 excerpt: Lomba Foto Sekolah Minggu HKBP Rawamangun.
 imagefeature: /images/20140308/10.jpg
-share: true
-comments: true
 ---
 
 <a href="{{site.bigimageurl}}/images/20140308/01.jpg" class="swipebox" title=""><img src="{{site.staticurl}}/static/wait.gif" class="resize js_show loading_image" data-href="/images/20140308/01.jpg" alt="" /></a>
