@@ -11,9 +11,9 @@ I prefer to using WhatsApp / Twitter.
 
 Phone / WhatsApp : +628561575475
 
----
+<!-- ---
 
-Twitter: <a href="https://twitter.com/intent/tweet?screen_name=SnaptwitID" target="_blank">Tweet to @SnaptwitID</a>
+Twitter: <a href="https://twitter.com/intent/tweet?screen_name=SnaptwitID" target="_blank">Tweet to @SnaptwitID</a> -->
 
 ---
 
