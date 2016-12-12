@@ -5,3 +5,4 @@ public
 .sass-cache
 tmp
 .env
+_ignore

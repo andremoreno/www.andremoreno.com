@@ -4,6 +4,7 @@ title: "Cara Menambahkan Lagu Pada Halaman Web"
 date: 2014-09-12
 excerpt: Terkadang kita ingin menambahkan / memasukkan lagu pada halaman web. Biar kesannya lebih menarik, atau hanya sekedar menampilkan lagu favorit saat ini, ataupun alasan lain yang kadang-kadang suka tidak jelas. Apalagi saat ini ada banyak situs di internet yang memungkinkan untuk mengunduh jenis lagu secara gratis.
 imagefeature: /images/20140912/screenshot.jpg
+audioplayer: true
 ---
 
 <a href="{{site.staticurl}}/images/20140912/screenshot.jpg" class="swipebox" title=""><img src="{{site.staticurl}}/static/wait.svg" class="resize js_show loading_image" data-href="/images/20140912/screenshot.jpg" alt="" /></a>
@@ -21,7 +22,7 @@ Terkadang kita ingin menambahkan / memasukkan lagu pada halaman web. Biar kesann
 Masih ingat saya dulu pernah menggunakan Yahoo Media Player. Cara ini cukup mudah. Jadi saya hanya perlu memasukkan kode Javascript pada halaman web kita, lalu memasukan kode dengan link yang berisi file mp3
 
 {% highlight html %}
-<a href="song1.mp3">Putar Lagu 1</a>
+<a href="lagu.mp3">Putar Lagu 1</a>
 {% endhighlight %}
 
 Tapi nampaknya http://mediaplayer.yahoo.com/js sudah tidak aktif lagi.
