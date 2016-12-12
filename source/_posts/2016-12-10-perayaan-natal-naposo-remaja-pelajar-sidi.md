@@ -3,7 +3,7 @@ layout: post
 title: "Perayaan Natal Remaja, Naposo & Pelajar Sidi HKBP Rawamangun 2016"
 date: 2016-12-10
 excerpt: "Perayaan Natal Remaja, Naposo & Pelajar Sidi HKBP Rawamangun"
-imagefeature: /images/20161210/20161210_0119.jpg
+imagefeature: /images/20161210/20161210_0210.jpg
 ---
 
 

@@ -5,8 +5,8 @@ export LD_LIBRARY_PATH=/opt/rh/mysql55/root/usr/lib64:/opt/rh/ror40/root/usr/lib
 export PATH=~/.gem/bin:/opt/rh/ruby200/root/usr/bin:$PATH
 
 echo "Jekyll Exec."
-cd $OPENSHIFT_REPO_DIR && bundle clean --force
-gem install bundle
-cd $OPENSHIFT_REPO_DIR && bundle update && bundle exec jekyll build -s source -d php --trace --incremental true
-#cd $OPENSHIFT_REPO_DIR && bundle exec jekyll build -s source -d php --incremental true
+#cd $OPENSHIFT_REPO_DIR && bundle clean --force
+#gem install bundle
+#cd $OPENSHIFT_REPO_DIR && bundle update && bundle exec jekyll build -s source -d php --trace --incremental true
+cd $OPENSHIFT_REPO_DIR && bundle exec jekyll build -s source -d php --incremental true
 
