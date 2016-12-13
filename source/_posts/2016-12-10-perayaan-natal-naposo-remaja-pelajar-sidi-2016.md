@@ -33,3 +33,6 @@ Perayaan Natal Remaja, Naposo & Pelajar Sidi HKBP Rawamangun 2016
 <a href="{{site.bigimageurl}}/images/20161210/20161210_0345.jpg" class="swipebox" title=""><img src="{{site.staticurl}}/static/wait.gif" class="resize js_show loading_image" data-href="/images/20161210/20161210_0345.jpg" alt="" /></a>
 <noscript><img src="{{site.staticurl}}/s720/images/20161210/20161210_0345.jpg" /></noscript>
 
+<hr />
+
+Untuk melihat hasil dokumentasi nya bisa dilihat di tautan berikut ini: <a href="https://ndre.in/2hojAEd">https://ndre.in/2hojAEd</a>
