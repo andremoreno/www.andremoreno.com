@@ -2,7 +2,7 @@
 layout: post
 title: "Synantam Christmas Celebration 2016"
 date: 2016-12-13
-excerpt: ""
+excerpt: "Synantam Christmas Celebration 2016"
 imagefeature: /images/20161213/20161213_0006.jpg
 ---
 
