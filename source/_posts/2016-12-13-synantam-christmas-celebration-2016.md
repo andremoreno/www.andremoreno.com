@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Perayaan Natal TK Synantam 2016"
+title: "Synantam Christmas Celebration 2016"
 date: 2016-12-13
-excerpt: "Perayaan Natal TK Synantam 2016"
+excerpt: ""
 imagefeature: /images/20161213/20161213_0006.jpg
 ---
 
@@ -50,5 +50,4 @@ imagefeature: /images/20161213/20161213_0006.jpg
 
 <a href="{{site.bigimageurl}}/images/20161213/20161213_0516.jpg" class="swipebox" title=""><img src="{{site.staticurl}}/static/wait.gif" class="resize js_show loading_image" data-href="/images/20161213/20161213_0516.jpg" alt="" /></a>
 <noscript><img src="{{site.staticurl}}/s720/images/20161213/20161213_0516.jpg" /></noscript>
-
 
