@@ -69,7 +69,6 @@ GEM
       rack (> 1, < 3)
     uglifier (3.0.4)
       execjs (>= 0.3.0, < 3)
-    wdm (0.1.1)
 
 PLATFORMS
   x86-mingw32
@@ -87,7 +86,6 @@ DEPENDENCIES
   sass
   sprockets
   uglifier
-  wdm (>= 0.1.0)
 
 BUNDLED WITH
    1.13.6
