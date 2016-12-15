@@ -7,6 +7,8 @@ imagefeature: /images/20141014/20141014_fi.png
 excerpt: Every artist grow by displaying their work and getting critique. But when their work is spread around without any credit to the artist, AND EVEN MAKES THE OWN ARTIST DELETE IT FROM HIS/HER SITE it lost the purpose and meaning.
 ---
 
+<hr />
+
 <img alt="" src="{{site.staticurl}}/static/credits/1.png" />
 
 <img alt="" src="{{site.staticurl}}/static/credits/2.png" />
@@ -15,7 +17,7 @@ excerpt: Every artist grow by displaying their work and getting critique. But wh
 
 <hr />
 
-<h3>What's supposed to happen</h3>
+<h2>What's supposed to happen</h2>
 
 &nbsp;
 
@@ -29,7 +31,7 @@ excerpt: Every artist grow by displaying their work and getting critique. But wh
 
 <hr />
 
-<h3>What's happening when you don't credit</h3>
+<h2>What's happening when you don't credit</h2>
 
 &nbsp;
 
@@ -39,11 +41,17 @@ excerpt: Every artist grow by displaying their work and getting critique. But wh
 
 <hr />
 
-<h3>What you're making them do</h3>
+<h2>What you're making them do</h2>
 
 <img alt="" src="{{site.staticurl}}/static/credits/10.png" />
 
+<hr />
+
+
 Every artist grow by displaying their work and getting critique. But when their work is spread around without any credit to the artist, **AND EVEN MAKES THE OWN ARTIST DELETE IT FROM HIS/HER SITE** it lost the purpose and meaning.
+
+<hr />
 
 Source: [http://whatiscredit.tumblr.com/](http://whatiscredit.tumblr.com/post/39057955023/why-crediting-is-important)
 
+<hr />
