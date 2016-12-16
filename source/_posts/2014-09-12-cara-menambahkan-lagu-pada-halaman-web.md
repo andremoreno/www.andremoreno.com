@@ -12,12 +12,17 @@ audioplayer: true
 
 Terkadang kita ingin menambahkan / memasukkan lagu pada halaman web. Biar kesannya lebih menarik, atau hanya sekedar menampilkan lagu favorit saat ini, ataupun alasan lain yang kadang-kadang suka tidak jelas. Apalagi saat ini ada banyak situs di internet yang memungkinkan untuk mengunduh jenis lagu secara *gratis*. Kira-kira seperti ini yang saya maksudkan:
 
-<audio preload="auto" controls>
+<!-- <audio preload="auto" controls>
     <source src="{{site.staticurl}}/misc/CDC_teinytc.mp3" />
     <source src="{{site.staticurl}}/misc/CDC_teinytc.ogg" />
+</audio> -->
+
+<audio preload="auto" controls>
+    <source src="{{site.staticurl}}/static/4202.mp3" />
+    <source src="{{site.staticurl}}/static/4202.ogg" />
 </audio>
 
-> <a href="https://twitter.com/CDCJKT" target="_blank">Cemetery Dance Club</a> - The End Is Not Yet To Come
+> Indonesia Raya
 
 Masih ingat saya dulu pernah menggunakan Yahoo Media Player. Cara ini cukup mudah. Jadi saya hanya perlu memasukkan kode Javascript pada halaman web kita, lalu memasukan kode dengan link yang berisi file mp3
 
